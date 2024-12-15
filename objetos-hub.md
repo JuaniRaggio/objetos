@@ -15,6 +15,7 @@ aliases:
 - [[overloadedMethods]]
 - [[inheritance-use|Inheritance use example]]
 - [[classAttributes|Class attributes]]
+- [[oop-mindset|How to think object oriented]]
 ## Contents
 ---
 

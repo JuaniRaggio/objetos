@@ -3,6 +3,7 @@ tags:
   - java
   - class
   - objects
+  - keywords
 aliases:
   - objetos
   - po
@@ -23,6 +24,10 @@ aliases:
 > - `static` block will be run only when the class is allocated in memory => *similar to C*
 
 
+> [!NOTE] private
+> *The private keyword* allows us to encapsulate the class so that the only way the user can access to those variables is *throught methods*
+
+
 
 
 ## Doubts
@@ -30,3 +35,4 @@ aliases:
 
 ## Files & References
 ---
+- [[oop-mindset|Using the private keyword]]
