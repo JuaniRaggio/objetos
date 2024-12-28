@@ -60,3 +60,5 @@ def foo2(string, long):
 dic = {"string": "wordle", "long": len(dic["string"])}
 foo2(string = dic["string"], long = dic["long"])
 ```
+
+
